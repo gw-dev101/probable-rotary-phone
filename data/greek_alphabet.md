@@ -1,1 +1,24 @@
-
+1  alpha
+2  beta
+3  gamma
+4  delta
+5  epsilon
+6  zeta
+7  eta
+8  theta
+9  iota
+10 kappa
+11 lambda
+12 mu
+13 nu
+14 xi
+15 omicron
+16 pi
+17 rho
+18 sigma
+19 tau
+20 upsilon
+21 phi
+22 chi
+23 psi
+24 omega
